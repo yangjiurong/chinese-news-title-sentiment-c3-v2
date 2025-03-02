@@ -1,4 +1,4 @@
-# 中文新闻文本情感三分类模型 Chinese news text sentiment three classification model
+# 中文新闻文本情感三分类模型
 
 [README_en](README_en.md)
 
