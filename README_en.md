@@ -12,7 +12,7 @@ Failed to upload large file on GitHub, please move the model file to [modelscope
 
 # 2. Model performance
 |Train loss | Train Accuracy | Train F1 | Eval loss | Eval Accuracy | Eval F1 |
-|--|--|--|--|
+|--|--|--|--|--|--|
 |0.0665	| 0.9791 |	0.9788 |	0.1657 | 0.9527 | 0.9520 |
 
 ![train_trend_chart](description/train_trend_chart.png)
