@@ -12,7 +12,7 @@ github 上传大文件失败，模型文件请移步[魔塔社区仓库](https:/
 
 # 2.模型性能
 |Train loss | Train Accuracy | Train F1 | Eval loss | Eval Accuracy | Eval F1 |
-|--|--|--|--|
+|--|--|--|--|--|--|
 |0.0665	| 0.9791 |	0.9788 |	0.1657 | 0.9527 | 0.9520 |
 
 ![训练趋势图](description/train_trend_chart.png)
