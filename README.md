@@ -17,8 +17,8 @@ github 上传大文件失败，模型文件请移步[魔塔社区仓库](https:/
 
 ![训练趋势图](description/train_trend_chart.png)
 
-# 3.Model loading
-> Please use the following loading method to load the model
+# 3.模型加载
+> 加载模型请使用如下加载方法
 ```python
 from transformers import BertTokenizer, BertForSequenceClassification
 import torch
@@ -28,7 +28,7 @@ model_id = 'yangjiurong/chinese-news-title-sentiment-c3-v2'
 tokenizer = BertTokenizer.from_pretrained(model_id)
 model = BertForSequenceClassification.from_pretrained(model_id)
 ```
-> Please use the following method to use the model
+> 使用模型请使用如下方法
 ```python
 news = [
     "沪指跌0.3%，再度跌破3200点。",
